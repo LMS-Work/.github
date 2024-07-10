@@ -1,8 +1,8 @@
-# LittleSheep的Minecraft服务器
+# LittleSheep Minecraft Server
 
 ## 关于我们
 
-欢迎来到 LittleSheep 的 Minecraft 服务器！我们致力于为玩家提供一个稳定、有趣且富有创意的 Minecraft 服务器环境。在这里，你可以与朋友们一起探索机械工艺的无限可能，创造属于自己的世界。
+欢迎来到 LittleSheep Minecraft Server！我们致力于为玩家提供一个稳定、有趣且富有创意的 Minecraft 服务器环境。在这里，你可以与朋友们一起探索机械工艺的无限可能，创造属于自己的世界。
 
 ## 服务器特色
 
@@ -26,8 +26,8 @@
 - **Email**：1503255237@qq.com
 - **QQ**：1503255237
 
-感谢你加入 LittleSheep 的 Minecraft 服务器，祝你游戏愉快！
+感谢你加入 LittleSheep Minecraft Server，祝你游戏愉快！
 
 ---
 
-© 2024 LittleSheep 的 Minecraft 服务器. 保留所有权利.
+© 2024 LittleSheep Minecraft Server. 保留所有权利.
